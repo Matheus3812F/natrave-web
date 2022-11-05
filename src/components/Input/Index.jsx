@@ -5,3 +5,4 @@ export const Input = ({ name, label, error, ...props }) => (
         <span className="p-2 text-sm text-red-300">{error}</span>
      </div>
 )
+//
